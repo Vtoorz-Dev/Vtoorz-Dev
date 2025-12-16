@@ -1,9 +1,9 @@
-<h1 align="center">Olá, eu sou o Vtoorz-Dev 👋!</h1>
+<h1 align="center">Olá, eu sou o Victor Araújo 👋!</h1>
 
 ###
 
 <div align="center">
-  <p>Eu sou um **Desenvolvedor Full Stack** com foco em **Desenvolvimento Web Moderno**. Estou sempre buscando aprimorar minhas habilidades em **JavaScript e Node.js** e adoro criar soluções inovadoras. Conecte-se comigo!</p>
+  <p>Eu sou um Desenvolvedor Front-end com paixão por transformar ideias em interfaces intuitivas e funcionais. Meu foco principal é na resolução de problemas, buscando sempre as melhores soluções técnicas para desafios complexos. Adoro aprender e aplicar novas tecnologias para criar experiências de usuário excepcionais.</p>
 </div>
 
 ###
@@ -19,20 +19,12 @@
 ###
 
 <div align="center">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn Vtoorz-Dev" />
+    <a href="https://www.linkedin.com/in/victornascimentoaraujo/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn Victor" />
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter Vtoorz-Dev" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord Vtoorz-Dev" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitch Vtoorz-Dev" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="dev.to Vtoorz-Dev" />
+  <img width="12" />
+    <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" height="25" alt="Portfólio Victor" />
   </a>
 </div>
 
@@ -45,10 +37,8 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vtoorz-Dev/Vtoorz-Dev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vtoorz-Dev/Vtoorz-Dev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Vtoorz-Dev/Vtoorz-Dev/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vtoorz-Dev&theme=midnight&bg_color=0E1117&hide_border=true&title_color=58A6FF&color=C9D1D9" alt="Gráfico de Atividade Vtoorz-Dev - Midnight" />
+</div>
 
 ###
